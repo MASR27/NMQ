@@ -1,0 +1,4 @@
+measurement_date,measurement_type,measurement_value
+2022-01-01,temperature,25.0
+2022-02-01,pressure,100.0
+2022-03-01,humidity,50.0

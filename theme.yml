@@ -1,0 +1,11 @@
+custom_dir: theme/readthedocs
+extra:
+  meta_description: ISO 10012:2003 Measurement Management System for Gas Stations
+name: readthedocs
+options:
+  favicon: favicon.ico
+  logo:
+    src: logo.png
+    width: 150
+static_templates:
+- 404.html

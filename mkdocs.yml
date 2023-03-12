@@ -1,0 +1,10 @@
+nav:
+- Home: index.md
+- Overview: overview.md
+- Scope: scope.md
+- Requirements: requirements.md
+- Responsibilities: responsibilities.md
+- Conclusion: conclusion.md
+site_name: ISO 10012:2003 Measurement Management System for Gas Stations
+theme:
+  name: readthedocs
